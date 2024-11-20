@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-ebon-22.vercel.app/api?username=r4nol&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=r4nol&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=r4nol&theme=github-dark&area=true&hide_border=true&hide_title=false&radius=20" height="150" alt="activity-graph graph"  />
 </div>
 
