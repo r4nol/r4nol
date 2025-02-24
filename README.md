@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=r4nol&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-trophies.vercel.app/?username=r4nol&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" height="220" alt="trophy graph"  />
 </div>
 
 ###
