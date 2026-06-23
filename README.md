@@ -1,6 +1,6 @@
-<!--<h2 align="left">Hi 👋! I'm r4nol and I'm a software developer, from Ukraine</h2>!-->
-
 ###
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=r4nol&theme=github-dark&area=true&hide_border=true&hide_title=false&radius=20" height="150" alt="activity-graph graph"  />
 </div>
 
